@@ -1,0 +1,6 @@
+framework module Pods_iOSLottieAnimation {
+  umbrella header "Pods-iOSLottieAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
